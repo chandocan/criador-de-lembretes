@@ -1,5 +1,5 @@
 '''
-aplicativo para pequenos lebretes do dia a dia 
+aplicativo para pequenos lembretes do dia a dia 
 '''
 from datetime import datetime
 
